@@ -1,5 +1,5 @@
-# Caso de Estudio
-# Analisis Exploratorio de Datos: Biodiversidad en Parques Nacionales
+## Caso de Estudio :deciduous_tree: :evergreen_tree: :leaves: :water_buffalo: :fish: :snake:
+# Analisis Exploratorio de Datos: Biodiversidad en Parques Nacionales 
 
 **Este es un caso de estudio para el certificado de Business Intelligence Data Analyst Career Path de Codecademy**  
 Consiste en un **Analisis Exploratorio de Datos** (EDA)  

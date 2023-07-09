@@ -1,14 +1,6 @@
-## Caso de Estudio :deciduous_tree: :evergreen_tree: :leaves: :water_buffalo: :fish: :snake:
-# Analisis Exploratorio de Datos: Biodiversidad en Parques Nacionales 
-
-**Este es un caso de estudio para el certificado de Business Intelligence Data Analyst Career Path de Codecademy**  
-Consiste en un **Analisis Exploratorio de Datos** (EDA)  
-Basado en datos ficticios, **inspirados en datos de Biodiversidad en Parques Nacionales de EEUU**  
-Por **Jairo Andrés Amaya Muñoz**
+## REPOSITORIO de Caso de Estudio :deciduous_tree: :evergreen_tree: :leaves: :water_buffalo: :fish: :snake:
   
+### Analisis Exploratorio de Datos (EDA): Biodiversidad en Parques Nacionales
   
-Este repositorio contiene el archivo de Jupyter Notebooks (IPython) donde se realiza la exploración y un breve análisis inicial de los datos de Biodiversidad en los Parques Nacionales de EEUU. El archivo es un script basado en código en lenguaje Python y usa librerías como Pandas, Matplotlib y Seaborn.  
-  
-Aquí también se encuentran dos archivos de datos CSV sobre los que se basa el análisis, estos contienen la información relativa a las especies que se encuentran en estos Parques Nacionales, su grado de amenaza como especie y los avistamientos realizados de ellas en los parques durante un periodo de 7 días.  
-
-Referirse al Jupyter Notebook (IPython) del caso de estudio ↑ (arriba).
+Referirse al Jupyter Notebook (IPython) del caso de estudio [↑ arriba.](https://github.com/jairo-andres-a-m/Proyecto-Codecademy-BI-DA/blob/main/Python%20Notebook%20-%20Caso%20de%20Estudio%20Biodiversidad.ipynb)  
+Por Jairo Andrés Amaya Muñoz.  
